@@ -93,8 +93,4 @@ fabric.properties
 #Pycharm ignore
 .env
 *.pyc
-__pycache__
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+*/__pycache__
