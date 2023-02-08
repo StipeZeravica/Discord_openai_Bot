@@ -93,3 +93,4 @@ fabric.properties
 #Pycharm ignore
 .env
 *.pyc
+**/__pycache__/
