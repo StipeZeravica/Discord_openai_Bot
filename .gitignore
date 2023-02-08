@@ -94,3 +94,8 @@ fabric.properties
 .env
 *.pyc
 __pycache__/
+*.pyc
+__pycache__/
+etc/tempest.conf
+etc/tempest.conf.sample
+etc/logging.conf
